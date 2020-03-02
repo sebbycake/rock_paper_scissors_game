@@ -14,7 +14,7 @@
 <p align="center">In this game, you will compete in a round of rock-paper-scissors game with 
 	the computer. Good Luck.</p>
 
-<form action="game2.php" method="post" align="center"> 
+<form action="game.php" method="post" align="center"> 
     <div class="form-group">
         <label for="label">Player Move: </label>
         <select class="form-control-sm" name="player_move">
